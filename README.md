@@ -13,3 +13,5 @@ Frontend should be running on http://localhost:3000 and Express API on http://lo
 In API folder npm run test for running API unit tests
 Please find the postman API collection in the root folder
 trello.postman_collection.json
+
+Please note that due to time constraints only Board ,List , Cards Load and Add List functionalites included in the frontend
