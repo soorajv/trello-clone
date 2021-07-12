@@ -1,0 +1,5 @@
+export const LIST_BY_BOARD_LOAD = 'LIST_BY_BOARD_LOAD';
+export const LIST_ADD_SUCCESS = 'LIST_ADD_SUCCESS';
+export const LIST_ADD_FAIL = 'LIST_ADD_FAIL';
+export const CARD_ADD_SUCCESS = 'CARD_ADD_SUCCESS';
+export const CARD_ADD_FAIL = 'CARD_ADD_FAIL';

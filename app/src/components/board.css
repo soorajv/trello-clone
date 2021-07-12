@@ -1,0 +1,9 @@
+.alignRight {
+  float: right !important;
+}
+.cardPadding {
+  padding-bottom: 20px;
+}
+.listAdd {
+  cursor: pointer;
+}
